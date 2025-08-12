@@ -36,7 +36,7 @@ notification:
   webhooks:
     feishu_url: "" # 飞书机器人的 webhook URL
     dingtalk_url: "" # 钉钉机器人的 webhook URL
-    wework_url: "" # 企业微信机器人的 webhook URL
+    wework_url: "https://work.weixin.qq.com/wework_admin/common/openBotProfile/24c59c1b438b8ae0aa4c866c086a13ef0a" # 企业微信机器人的 webhook URL
     telegram_bot_token: "" # Telegram Bot Token
     telegram_chat_id: "" # Telegram Chat ID
 
